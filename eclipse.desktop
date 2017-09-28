@@ -1,0 +1,14 @@
+[Desktop Entry]
+Comment=Eclipse, IDE for java devolpment
+Exec=/opt/eclipse/eclipse
+GenericName=Eclipse IDE
+Name=Eclipse
+NoDisplay=false
+Path[$e]=
+StartupNotify=true
+Terminal=0
+TerminalOptions=
+Type=Application
+X-KDE-SubstituteUID=false
+X-KDE-Username=
+~                
